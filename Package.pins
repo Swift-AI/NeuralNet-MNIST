@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "NeuralNet",
+      "reason": null,
+      "repositoryURL": "https://github.com/Swift-AI/NeuralNet.git",
+      "version": "0.3.0"
+    }
+  ],
+  "version": 1
+}
